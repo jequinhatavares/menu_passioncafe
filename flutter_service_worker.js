@@ -11,21 +11,22 @@ const RESOURCES = {
 "assets/assets/images/sobremesa.jpg": "9faed462268f90905ee189637c575ded",
 "assets/assets/images/sopas.jpg": "f8338cd2407367df10d01244cee6b189",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
-"assets/NOTICES": "2ceedb153a9ddf191c47e7cb8b46fda6",
+"assets/fonts/MaterialIcons-Regular.otf": "95db9098c58fd6db106f1116bae85a0b",
+"assets/NOTICES": "2d7236aca695ba4cd213a3478e55d740",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"flutter.js": "eb2682e33f25cd8f1fc59011497c35f8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "70c6ed10de65f72c64157a08ad014108",
-"/": "70c6ed10de65f72c64157a08ad014108",
-"main.dart.js": "8e6afd138930cef2b28d44d42114cf20",
+"index.html": "08563c7128b5d221661c60f79b5e37fe",
+"/": "08563c7128b5d221661c60f79b5e37fe",
+"main.dart.js": "04c8c234b47b72215b3b27dd16487100",
 "manifest.json": "065457b75de2e3765a452b1b3cb09b21",
 "version.json": "72f34a2d5755f1073f9f0bcf92749a00"
 };
@@ -33,8 +34,7 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
-"main.dart.js",
+  "main.dart.js",
 "index.html",
 "assets/NOTICES",
 "assets/AssetManifest.json",
